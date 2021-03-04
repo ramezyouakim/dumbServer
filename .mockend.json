@@ -1,0 +1,14 @@
+{
+  "Books": {
+    "id": "int",
+    "Title": "string".
+    "Description": "string",
+    "Author name": "string",
+    "t-stamp": "date"
+  "users": {
+    "id": "string",
+    "username": "string",
+    "password": "string",
+    "books": "Books[]"
+  }
+}

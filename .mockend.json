@@ -1,7 +1,7 @@
 {
   "Books": {
     "id": "int",
-    "Title": "string".
+    "Title": "string",
     "Description": "string",
     "Author name": "string",
     "t-stamp": "date"

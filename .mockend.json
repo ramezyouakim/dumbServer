@@ -5,6 +5,7 @@
     "Description": "string",
     "Author name": "string",
     "t-stamp": "date"
+  },
   "users": {
     "id": "string",
     "username": "string",

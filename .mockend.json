@@ -3,8 +3,8 @@
     "id": "int",
     "Title": "string",
     "Description": "string",
-    "Author name": "string",
-    "t-stamp": "date"
+    "Author_name": "string",
+    "t_stamp": "date"
   },
   "users": {
     "id": "string",
